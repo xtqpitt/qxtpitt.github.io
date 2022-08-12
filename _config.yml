@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xueteng Qian"
   avatar           : "images/download.jpg"
-  bio              : "University of Pittsburgh"
+  bio              : 
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : 
