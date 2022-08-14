@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<font size=15>I'm a first year PhD student at the Department of Computer Science in University of Pittsburgh, advised by Prof. Longfei Shangguan. My main research interests are Mobile Computing, Human Computer Interaction(HCI), and Internet of Things. Before joining the PhD program at Pitt, I received master degree in Computer Science and B.S in Computer Engineering both at University of Massachusetts, Amhert. </font>
+<font size=10>I'm a first year PhD student at the Department of Computer Science in University of Pittsburgh, advised by Prof. Longfei Shangguan. My main research interests are Mobile Computing, Human Computer Interaction(HCI), and Internet of Things. Before joining the PhD program at Pitt, I received master degree in Computer Science and B.S in Computer Engineering both at University of Massachusetts, Amhert. </font>
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
